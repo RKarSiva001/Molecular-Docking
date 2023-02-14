@@ -1,0 +1,4 @@
+pro
+spacing    0.375
+npts       40 40 40
+center    23.053 38.154 31.518
